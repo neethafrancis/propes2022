@@ -1,0 +1,9 @@
+
+.first{
+  background-size:cover;
+  background-image:"backgd.jpg"
+}
+.align{
+      left: -100px;
+      align-items: flex-start;
+}
